@@ -1,6 +1,13 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Is a reponsive website that implements Hooks.
+
+## Screen Grabs
+![Hero](./public/images/hero.png)
+
+![Main Content](./public/images/main-content.png)
+
+![Footer](./public/images/footer.png)
 
 ## Available Scripts
 
